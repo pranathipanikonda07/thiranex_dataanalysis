@@ -1,0 +1,41 @@
+customer_id,age,gender,location,product_category,purchase_amount,quantity,payment_method,purchase_date,customer_tenure_days,satisfaction_score
+C001,28,M,New York,Electronics,450.50,2,Credit Card,2023-01-15,365,8
+C002,35,F,Los Angeles,Clothing,120.30,1,Debit Card,2023-01-16,180,7
+C003,42,M,Chicago,Home,890.00,3,Credit Card,2023-01-17,545,9
+C004,29,F,Houston,Electronics,320.75,1,PayPal,2023-01-18,90,6
+C005,51,M,Phoenix,Clothing,85.50,2,Credit Card,2023-01-19,720,8
+C006,33,F,New York,Electronics,1200.00,4,Credit Card,2023-01-20,240,9
+C007,45,M,Philadelphia,Home,650.25,2,Debit Card,2023-01-21,400,7
+C008,26,F,San Antonio,Clothing,210.00,3,Credit Card,2023-01-22,60,5
+C009,38,M,San Diego,Electronics,560.00,2,PayPal,2023-01-23,300,8
+C010,55,F,Dallas,Home,1050.75,3,Credit Card,2023-01-24,600,9
+C011,31,M,San Jose,Electronics,420.50,1,Debit Card,2023-01-25,150,7
+C012,44,F,Austin,Clothing,290.00,2,Credit Card,2023-01-26,480,8
+C013,27,M,Jacksonville,Home,720.30,2,PayPal,2023-01-27,75,6
+C014,52,F,Fort Worth,Electronics,880.00,3,Credit Card,2023-01-28,650,9
+C015,39,M,Columbus,Clothing,145.50,1,Debit Card,2023-01-29,350,7
+C016,30,F,Charlotte,Electronics,510.75,2,Credit Card,2023-01-30,200,8
+C017,48,M,San Francisco,Home,950.00,3,PayPal,2023-01-31,520,9
+C018,25,F,Indianapolis,Clothing,95.30,1,Credit Card,2023-02-01,45,5
+C019,41,M,Austin,Electronics,670.50,2,Debit Card,2023-02-02,400,8
+C020,56,F,Memphis,Home,1100.25,4,Credit Card,2023-02-03,700,9
+C021,32,M,Boston,Electronics,390.00,1,PayPal,2023-02-04,170,6
+C022,46,F,Seattle,Clothing,220.75,2,Credit Card,2023-02-05,490,8
+C023,28,M,Denver,Home,820.50,3,Debit Card,2023-02-06,80,7
+C024,53,F,Washington,Electronics,750.00,2,Credit Card,2023-02-07,620,9
+C025,36,M,Nashville,Clothing,165.30,1,PayPal,2023-02-08,320,7
+C026,29,F,Detroit,Electronics,530.75,2,Credit Card,2023-02-09,210,8
+C027,49,M,Oklahoma City,Home,920.00,3,Debit Card,2023-02-10,550,9
+C028,24,F,Portland,Clothing,105.50,1,Credit Card,2023-02-11,50,5
+C029,43,M,Las Vegas,Electronics,600.30,2,PayPal,2023-02-12,380,7
+C030,58,F,Louisville,Home,1150.00,4,Credit Card,2023-02-13,750,9
+C031,34,M,Milwaukee,Electronics,480.75,2,Debit Card,2023-02-14,260,8
+C032,47,F,Albuquerque,Clothing,205.00,1,Credit Card,2023-02-15,500,8
+C033,27,M,Tucson,Home,780.50,3,PayPal,2023-02-16,100,6
+C034,54,F,Fresno,Electronics,820.00,2,Credit Card,2023-02-17,680,9
+C035,40,M,Sacramento,Clothing,130.30,1,Debit Card,2023-02-18,360,7
+C036,31,F,Long Beach,Electronics,450.75,2,Credit Card,2023-02-19,180,8
+C037,50,M,Kansas City,Home,1000.00,3,PayPal,2023-02-20,600,9
+C038,23,F,Mesa,Clothing,115.50,1,Credit Card,2023-02-21,40,4
+C039,44,M,Virginia Beach,Electronics,640.30,2,Debit Card,2023-02-22,410,8
+C040,59,F,Atlanta,Home,1200.00,4,Credit Card,2023-02-23,800,9
